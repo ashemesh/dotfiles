@@ -1,0 +1,19 @@
+{
+    "telemetry.enableTelemetry": false,
+    "go.testOnSave": true,
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 0,
+    "python.pythonPath": "/usr/local/bin/python3",
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "go.formatTool": "goimports",
+    "editor.snippetSuggestions": "top",
+    "explorer.autoReveal": true,
+    "bracketPairColorizer.forceUniqueOpeningColor": true,
+    "bracketPairColorizer.highlightActiveScope": true,
+    "workbench.editor.enablePreview": false,
+    "workbench.list.keyboardNavigation": "filter",
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideTabs": false,
+    "explorer.openEditors.visible": 0,
+    "explorer.decorations.colors": false
+}

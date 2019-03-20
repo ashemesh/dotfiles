@@ -1,19 +1,37 @@
 {
-    "telemetry.enableTelemetry": false,
-    "go.testOnSave": true,
-    "editor.minimap.enabled": false,
-    "window.zoomLevel": 0,
-    "python.pythonPath": "/usr/local/bin/python3",
-    "go.useCodeSnippetsOnFunctionSuggest": true,
-    "go.formatTool": "goimports",
-    "editor.snippetSuggestions": "top",
-    "explorer.autoReveal": true,
-    "bracketPairColorizer.forceUniqueOpeningColor": true,
-    "bracketPairColorizer.highlightActiveScope": true,
-    "workbench.editor.enablePreview": false,
-    "workbench.list.keyboardNavigation": "filter",
-    "zenMode.hideLineNumbers": false,
-    "zenMode.hideTabs": false,
-    "explorer.openEditors.visible": 0,
-    "explorer.decorations.colors": false
+  "bracketPairColorizer.forceUniqueOpeningColor": true,
+  "bracketPairColorizer.highlightActiveScope": true,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.snippetSuggestions": "top",
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    {
+      "autoFix": true,
+      "language": "html"
+    },
+    {
+      "autoFix": true,
+      "language": "javascript"
+    },
+    {
+      "autoFix": true,
+      "language": "vue"
+    }
+  ],
+  "explorer.autoReveal": true,
+  "explorer.decorations.colors": false,
+  "explorer.openEditors.visible": 0,
+  "go.formatTool": "goimports",
+  "go.testOnSave": true,
+  "go.useCodeSnippetsOnFunctionSuggest": true,
+  "python.pythonPath": "/usr/local/bin/python3",
+  "telemetry.enableTelemetry": false,
+  "vetur.completion.useScaffoldSnippets": false,
+  "vetur.validation.template": false,
+  "window.zoomLevel": 0,
+  "workbench.editor.enablePreview": false,
+  "workbench.list.keyboardNavigation": "filter",
+  "zenMode.hideLineNumbers": false,
+  "zenMode.hideTabs": false
 }
